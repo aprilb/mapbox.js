@@ -10,8 +10,8 @@
         "bestiejs/json3": "gh-pages"
     },
     "scripts": [
-        "index.js",
-        "mapbox.js",
+        "src/index.js",
+        "src/mapbox.js",
         "src/config.js",
         "src/feature_layer.js",
         "src/geocoder.js",
