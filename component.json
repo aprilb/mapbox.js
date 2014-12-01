@@ -3,7 +3,7 @@
     "repository": "mapbox/mapbox.js",
     "version": "1.6.2",
     "dependencies": {
-        "dominicbarnes/leaflet": "v0.7.2",
+        "Leaflet/Leaflet": "v0.7.3",
         "dominicbarnes/sanitize-caja": "master",
         "dominicbarnes/mustache.js": "master",
         "dominicbarnes/corslite": "master",
