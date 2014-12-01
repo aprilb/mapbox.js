@@ -6,7 +6,7 @@
         "Leaflet/Leaflet": "v0.7.3",
         "dominicbarnes/sanitize-caja": "master",
         "dominicbarnes/mustache.js": "master",
-        "dominicbarnes/corslite": "master",
+        "aprilb/corslite": "master",
         "bestiejs/json3": "gh-pages"
     },
     "scripts": [
